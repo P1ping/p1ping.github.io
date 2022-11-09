@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="../files/CV.pdf" width="600" height="700" type='application/pdf'>
+
+<!---
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng in Central South University, 2016-2020
+* M.Sc in Southern University of Science and Technology, 2020-2023
 
 Work experience
 ======
@@ -57,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--->
