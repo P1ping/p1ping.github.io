@@ -10,7 +10,8 @@ redirect_from:
 
 I am a Master's student at Southern University of Science and Technology (SUSTech), currently pursuing my degree under the supervision of [Yu Zhang](https://www.sustech.edu.cn/en/faculties/zhangyu.html) (previously by [Tom Ko](https://tomkocse.github.io/) and [Jimmy Liu](https://faculty.sustech.edu.cn/liuj/)). My research focuses on the fascinating fields of speech representation learning, speech synthesis, and speech-to-speech translation.
 
-For more detailed information about my academic background and experiences, please refer to my [CV](/cv). If you have any inquiries or wish to explore potential collaborations, please don't hesitate to reach out to me at kibing.bai@gmail.com. I am enthusiastic about discussing my work and answering any questions you may have.
+<!-- For more detailed information about my academic background and experiences, please refer to my [CV](/cv). -->
+If you have any inquiries or wish to explore potential collaborations, please don't hesitate to reach out to me at kibing.bai@gmail.com. I am enthusiastic about discussing my work and answering any questions you may have.
 
 # Publications
 
